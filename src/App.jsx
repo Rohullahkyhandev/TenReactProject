@@ -1,10 +1,11 @@
 import React from "react";
+import Counter from "./Counter";
 
 const App = () => {
   return (
-    <div>
-      <H1>React Ten Beginner projects</H1>
-    </div>
+    <>
+      <Counter />
+    </>
   );
 };
 
