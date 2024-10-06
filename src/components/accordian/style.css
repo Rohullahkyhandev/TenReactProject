@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(50, 47, 47);
+}
+
+.accordian--container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  box-sizing: border-box;
+  overflow-y: auto;
+}
+
+.accordain--box {
+  border-radius: 3px;
+  padding: 6px;
+  background-color: #08565d;
+  color: #fff;
+  margin-bottom: 10px;
+  transition: background-color 1s ease;
+  width: 500px;
+}
+
+.accordain--box div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 6px;
+}
+.accordian--box:hover {
+  background-color: #06474d;
+}
+.accordain--content {
+  padding: 0px 10px;
+}
