@@ -92,11 +92,13 @@
   margin-bottom: 5px;
   padding: 10px;
   background-color: #fff;
+
 }
 
 .todo--list li {
   display: flex;
   justify-content: space-between;
+  
 }
 
 .todo--list li button {
@@ -109,6 +111,7 @@
   transition: background-color 0.3s ease;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
   outline: none;
+
   margin-left: 10px;
   font-weight: bold;
   font-size: 16px;
