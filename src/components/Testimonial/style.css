@@ -1,4 +1,4 @@
-body {
+/* body {
   padding: 0;
   margin: 0;
   width: 100%;
@@ -26,12 +26,12 @@ body {
   transition: transform 0.5s ease;
   will-change: transform;
   /* transform: translateX(-100%); */
-  transform-origin: right;
+  /* transform-origin: right;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
   cursor: pointer;
   margin-bottom: 20px;
   /* overflow-x: scroll; */
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth;
   transition: opacity 0.8s ease;
   opacity: 0;
   opacity: 1;
@@ -67,4 +67,4 @@ button {
   right: 20px;
   font-size: 14px;
   color: #d13f13;
-}
+} */ */ */
